@@ -46,20 +46,21 @@ Topics of interest include, but are not limited to:
 + Giuseppe D’Aniello - Università of Salerno, Italy
 
 ## IMPORTANT DATES:
-(Suggested) 1st Call for Workshop Papers: February 28, 2024
-(Suggested) 2nd Call for Workshop Papers: April 13, 2024
-(Suggested) Workshop Paper Submission: April 24, 2024
-(Suggested) Notification: May 8, 2024
-(Mandatory) Workshop Papers Camera-ready Submission (TAPS system): May 16, 2024
++ 1st Call for Workshop Papers: February 28, 2024
++ 2nd Call for Workshop Papers: April 13, 2024
++ Workshop Paper Submission: April 24, 2024
++ Notification: May 8, 2024
++ Workshop Papers Camera-ready Submission (TAPS system): May 16, 2024
 
 ## WORKSHOP ORGANIZATION:
-09.00 Opening and Welcome
-09.10 Invited Keynote
-09.40 Session I
-10.30 Break
-11.00 Session II
-12.10 Lessons learned and roundtable with the authors
-12.25 Wrap up and summary
+
++ 09.00 Opening and Welcome
++ 09.10 Invited Keynote
++ 09.40 Session I
++ 10.30 Break
++ 11.00 Session II
++ 12.10 Lessons learned and roundtable with the authors
++ 12.25 Wrap up and summary
 
 
 ## ORGANIZERS

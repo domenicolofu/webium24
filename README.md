@@ -1,3 +1,4 @@
-# Graph Neural Networks for Recommendation: Reproducibility, Graph Topology, and Node Representation
 
-Website repository of the tutorial.
+# 1st Workshop on Wearable Devices and Brain-Computer Interfaces for User Modelling, WeBIUM
+
+Website repository of the Workshop.

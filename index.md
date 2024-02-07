@@ -6,7 +6,7 @@ layout: default
 
 ## Abstract
 
-Wearable Devices (WD s), encompassing a spectrum from smartwatches to fitness trackers, continuously furnish a wealth of physiological and activity-related data. This trove of information facilitates the creation of robust user models, offering a dynamic lens into users’daily lives, health patterns, and interaction behaviours. Furthermore, the integration of Brain-Computer Interfaces (BCIs), directly interfacing with neural signals, presents a distinctive vantage point into cognitive processes and emotional states. This integration enriches user models, providing a profound understanding of mental states and engagement levels. While BCIs cannot be strictly categorized as WD s, the latest hardware developments are reaching a size comparable to earphones, anticipating their wearable integration in the near future. However, the exploitation of data from these devices for user modelling and profiling, enhancing personalized activities such as music listening and movie watching, remains an area ripe for exploration.
+Wearable Devices (WDs), encompassing a spectrum from smartwatches to fitness trackers, continuously furnish a wealth of physiological and activity-related data. This trove of information facilitates the creation of robust user models, offering a dynamic lens into users’daily lives, health patterns, and interaction behaviours. Furthermore, the integration of Brain-Computer Interfaces (BCIs), directly interfacing with neural signals, presents a distinctive vantage point into cognitive processes and emotional states. This integration enriches user models, providing a profound understanding of mental states and engagement levels. While BCIs cannot be strictly categorized as WD s, the latest hardware developments are reaching a size comparable to earphones, anticipating their wearable integration in the near future. However, the exploitation of data from these devices for user modelling and profiling, enhancing personalized activities such as music listening and movie watching, remains an area ripe for exploration.
 This workshop proposes an in-depth exploration of the transformative impact that data from WDs and BCIs can exert on user
 modelling. This initiative seeks to pave the way for a nuanced comprehension of individual preferences, cognitive states, and overall user experiences. The workshop invites researchers, practitioners, and enthusiasts to the convergence of wearable technology, BCIs, and user modelling. Through interactive sessions and discussions, participants will delve into the methodologies, challenges, and opportunities associated with harnessing data from these innovative sources. By fostering collaboration and facilitating knowledge exchange, the workshop aims to propel the current understanding of user modelling by exploiting WD s and BCIs. Attendees will acquire insights into cutting-edge research findings, practical applications, and potential future developments within this rapidly evolving field. Ultimately, the workshop aspires to inspire new research directions, catalyze interdisciplinary collaborations, and cultivate innovative solutions that leverage the synergy between wearable technologies and BCIs to elevate the field of user modelling to unprecedented heights.
 
@@ -112,22 +112,55 @@ Website: [https://sisinflab.poliba.it/people/tommaso-colafiglio/](https://sisinf
 
 <img src="https://sisinflab.poliba.it/wp-content/uploads/2023/06/tomm-colafiglio-1-360x270.jpg" alt="Tommaso Colafiglio"  width="200"/>
 
-### Claudio Pomo
-
-_Research Fellow at Polytechnic University of Bari (Italy)_
-
-Email: [claudio.pomo@poliba.it](mailto:claudio.pomo@poliba.it)
-
-Website: [https://sisinflab.poliba.it/people/claudio-pomo/](https://sisinflab.poliba.it/people/claudio-pomo/)
-
-<img src="https://sisinflab.poliba.it/wp-content/uploads/2020/07/image2-1197215127-scaled.jpg" alt="Claudio Pomo"  width="200"/>
 
 ### Tommaso Di Noia
 
-_Professor of Computer Science at Polytechnic University of Bari (Italy)_
+_Full Professor at Polytechnic University of Bari (Italy)_
 
 Email: [tommaso.dinoia@poliba.it](mailto:tommaso.dinoia@poliba.it)
 
 Website: [https://sisinflab.poliba.it/people/tommaso-di-noia/](https://sisinflab.poliba.it/people/tommaso-di-noia/)
 
 <img src="https://sisinflab.poliba.it/wp-content/uploads/2020/07/t_dinoia-506699224-315x270.png" alt="Tommaso Di Noia"  width="200" />
+
+
+### Domenico Lofù
+
+_Assistant Professor at Polytechnic University of Bari (Italy)_
+
+Email: [domenico.lofu@poliba.it](mailto:domenico.lofu@poliba.it)
+
+Website: [https://sisinflab.poliba.it/people/domenico-lofu/](https://sisinflab.poliba.it/people/domenico-lofu/)
+
+<img src="https://sisinflab.poliba.it/wp-content/uploads/2020/07/2l-5593469268-360x270.png" alt="Domenico Lofù"  width="200" />
+
+
+### Angela Lombardi
+
+_Assistant Professor at Polytechnic University of Bari (Italy)_
+
+Email: [angela.lombardi@poliba.it](mailto:angela.lombardi@poliba.it)
+
+Website: [https://sisinflab.poliba.it/people/angela-lombardi/](https://sisinflab.poliba.it/people/angela-lombardi/)
+
+<img src="https://sisinflab.poliba.it/wp-content/uploads/2022/09/lombardi.jpg" alt="Angela Lombardi"  width="200" />
+
+### Fedelucio Narducci 
+
+_Associate Professor at Polytechnic University of Bari (Italy)_
+
+Email: [fedelucio.narducci@poliba.it](mailto:fedelucio.narducci@poliba.it)
+
+Website: [https://sisinflab.poliba.it/people/fedelucio-narducci/](https://sisinflab.poliba.it/people/fedelucio-narducci/)
+
+<img src="https://sisinflab.poliba.it/wp-content/uploads/2020/07/2030_23122020_52-6_resized-e1660202549932-360x270.jpg" alt="Fedelucio Narducci"  width="200" />
+
+### Paolo Sorino
+
+_Ph.D. Candidate at Polytechnic University of Bari (Italy)_
+
+Email: [paolo.sorino@poliba.it](mailto:paolo.sorino@poliba.it)
+
+Website: [https://sisinflab.poliba.it/people/paolo-sorino/](https://sisinflab.poliba.it/people/paolo-sorino/)
+
+<img src="https://sisinflab.poliba.it/wp-content/uploads/2021/11/WhatsApp-Image-2021-11-11-at-09.45.08-e1636620797172-360x270.jpeg" alt="Paolo Sorino"  width="200" />

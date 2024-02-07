@@ -10,13 +10,15 @@ This workshop proposes an in-depth exploration of the transformative impact that
 
 ## OBJECTIVES
 
-The 1st Workshop on Wearable Devices and Brain-Computer Interfaces for User Modelling (WeBIUM) is dedicated to exploring the comprehensive utilization of data derived from Wearable Devices (WDs) and Brain-Computer Interfaces (BCIs) to elevate the user experience through enhanced user profiling and modelling. The primary objective is to catalyze research endeavours that leverage WDs and BCIs to obtain real-time biological data, thereby advancing the precision of user profiling. WeBIUM is committed to fostering innovations in user modelling, with the overarching goal of improving user engagement and satisfaction through the provision of more accurate contextual and user information to personalization algorithms. This commitment aligns with the insights presented in existing literature. WeBIUM endeavours to facilitate meaningful discussions and knowledge exchange among researchers and practitioners on the implementation of solutions that harness WDs and BCIs data. The workshop specifically aims to:
+<p align="justify">
+The 1st Workshop on Wearable Devices and Brain-Computer Interfaces for User Modelling (WeBIUM) is dedicated to exploring the comprehensive utilization of data derived from Wearable Devices (WDs) and Brain-Computer Interfaces (BCIs) to elevate the user experience through enhanced user profiling and modelling. The primary objective is to catalyze research endeavours that leverage WDs and BCIs to obtain real-time biological data, thereby advancing the precision of user profiling. WeBIUM is committed to fostering innovations in user modelling, with the overarching goal of improving user engagement and satisfaction through the provision of more accurate contextual and user information to personalization algorithms. This commitment aligns with the insights presented in existing literature. WeBIUM endeavours to facilitate meaningful discussions and knowledge exchange among researchers and practitioners on the implementation of solutions that harness WDs and BCIs data. The workshop specifically aims to:</p>
 
 + Share cutting-edge research and methodologies encompassing new design technologies and evaluation approaches
 + Identify and address forthcoming challenges in the interdisciplinary realm of WDs, BCIs, and AI
 + Recognize emerging issues that warrant attention within the broader field
 
-By providing a place for interdisciplinary collaboration, WeBIUM aspires to forge a community dedicated to leveraging WD and BCI data for user profiling. We encourage active participation from researchers and practitioners alike, fostering an environment conducive to collaborative exploration and the exchange of innovative ideas.
+<p align="justify">
+By providing a place for interdisciplinary collaboration, WeBIUM aspires to forge a community dedicated to leveraging WD and BCI data for user profiling. We encourage active participation from researchers and practitioners alike, fostering an environment conducive to collaborative exploration and the exchange of innovative ideas.</p>
 
 ## TOPICS
 
@@ -34,8 +36,8 @@ Topics of interest include, but are not limited to:
 + User modelling in immersive digital environments
 + User acceptance and adoption of WDs and BCIs
 + Security aspects of using WDs for personal and environmental data
-+ Advanced Feature Modeling Architectures for WDs and BCIs;
-+ Model interpretability in WD and BCI applications;
++ Advanced Feature Modeling Architectures for WDs and BCIs
++ Model interpretability in WD and BCI applications
 + Evaluation metrics tailored for predictive models in the context of WDs and BCIs
 + Innovative methodologies for user studies in wearable technologies
 + Ethical considerations in conducting user studies exploring WDs and BCIs
@@ -46,14 +48,15 @@ Topics of interest include, but are not limited to:
 + Elvira Brattico - Aarhus University, Denmark
 + Giuseppe D’Aniello - Università of Salerno, Italy
 
-## IMPORTANT DATES:
+## IMPORTANT DATES
+
 + 1st Call for Workshop Papers: February 28, 2024
 + 2nd Call for Workshop Papers: April 13, 2024
 + Workshop Paper Submission: April 24, 2024
 + Notification: May 8, 2024
 + Workshop Papers Camera-ready Submission (TAPS system): May 16, 2024
 
-## WORKSHOP ORGANIZATION:
+## WORKSHOP ORGANIZATION
 
 + 09.00 Opening and Welcome
 + 09.10 Invited Keynote

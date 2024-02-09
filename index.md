@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<a href="https://easychair.org/" class="button">Description</a>
+<a href="#Organizers" class="button">Description</a>
 <a href="https://easychair.org/" class="button">Objectives</a>
 <a href="https://easychair.org/" class="button">Topics</a>
 <a href="https://easychair.org/" class="button">Program Committee</a>
@@ -80,7 +80,8 @@ Topics of interest include, but are not limited to:
 + 12.25 Wrap up and summary
 
 
-## ORGANIZERS
+## ORGANIZERS <a name="Organizers">Organizers</a>
+
 
 ### Tommaso Colafiglio 
 

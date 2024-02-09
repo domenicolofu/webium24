@@ -6,9 +6,9 @@ layout: default
 <a href="#TOP" class="button">Topics</a>
 <a href="#PC" class="button">Program Committee</a>
 <a href="#ID" class="button">Important Dates</a><br>
-<p aling="#center">
+<div style='margin-top:30px;'>
 <a href="#WO" class="button">Workshop Organization</a>
-<a href="#OR" class="button">Organizers</a></p>
+<a href="#OR" class="button">Organizers</a></div>
 
 ## DESCRIPTION <a name="DESC"></a>
 

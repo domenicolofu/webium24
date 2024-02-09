@@ -2,7 +2,6 @@
 layout: default
 ---
 <div style='margin-left:30px;'>
-<a href="#DESC" class="button">Description</a>
 <a href="#OBJ" class="button">Objectives</a>
 <a href="#TOP" class="button">Topics</a>
 <a href="#PC" class="button">Program Committee</a><br></div>
@@ -11,7 +10,7 @@ layout: default
 <a href="#WO" class="button">Workshop Organization</a>
 <a href="#OR" class="button">Organizers</a></div>
 
-## DESCRIPTION <a name="DESC"></a>
+## DESCRIPTION
 
 <p align="justify">
 Wearable Devices (WDs), encompassing a spectrum from smartwatches to fitness trackers, continuously furnish a wealth of physiological and activity-related data. This trove of information facilitates the creation of robust user models, offering a dynamic lens into users’daily lives, health patterns, and interaction behaviours. Furthermore, the integration of Brain-Computer Interfaces (BCIs), directly interfacing with neural signals, presents a distinctive vantage point into cognitive processes and emotional states. This integration enriches user models, providing a profound understanding of mental states and engagement levels. While BCIs cannot be strictly categorized as WD s, the latest hardware developments are reaching a size comparable to earphones, anticipating their wearable integration in the near future. However, the exploitation of data from these devices for user modelling and profiling, enhancing personalized activities such as music listening and movie watching, remains an area ripe for exploration.<br>

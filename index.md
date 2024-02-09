@@ -1,11 +1,13 @@
 ---
 layout: default
 ---
-<a href="https://github.com/sisinflab/LoG-2023-GNNs-RecSys" class="btn">Description</a><br>
-<a href="https://github.com/sisinflab/LoG-2023-GNNs-RecSys" class="btn">Objectives</a><br>
-<a href="https://github.com/sisinflab/LoG-2023-GNNs-RecSys" class="btn">Topics</a><br>
-<a href="https://github.com/sisinflab/LoG-2023-GNNs-RecSys" class="btn">Program Committee</a><br>
-
+<a href="https://easychair.org/" class="button">Description</a>
+<a href="https://easychair.org/" class="button">Objectives</a>
+<a href="https://easychair.org/" class="button">Topics</a>
+<a href="https://easychair.org/" class="button">Program Committee</a>
+<a href="https://easychair.org/" class="button">Important Dates</a>
+<a href="https://easychair.org/" class="button">Workshop Organization</a>
+<a href="https://easychair.org/" class="button">Organizers</a>
 
 ## DESCRIPTION
 

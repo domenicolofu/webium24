@@ -5,10 +5,10 @@ layout: default
 <a href="#DESC" class="button">Description</a>
 <a href="#OBJ" class="button">Objectives</a>
 <a href="#TOP" class="button">Topics</a>
-<a href="#PC" class="button">Program<br>Committee</a><br></div>
-<div style='margin:auto;'>
-<a href="#ID" class="button">Important<br>Dates</a>
-<a href="#WO" class="button">Workshop<br>Organization</a>
+<a href="#PC" class="button">Program Committee</a><br></div>
+<div style='margin-top:30px; margin-left:250px;'>
+<a href="#ID" class="button">Important Dates</a>
+<a href="#WO" class="button">Workshop Organization</a>
 <a href="#OR" class="button">Organizers</a></div>
 
 ## DESCRIPTION <a name="DESC"></a>

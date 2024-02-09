@@ -8,7 +8,7 @@ layout: default
 <a href="https://easychair.org/" class="button">Important Dates</a><br>
 <aling="center">
 <a href="https://easychair.org/" class="button">Workshop Organization</a>
-<a href="https://easychair.org/" class="button">Organizers</a></aling="center">
+<a href="#Organizers" class="button">Organizers</a></aling="center">
 
 ## DESCRIPTION
 
@@ -80,7 +80,7 @@ Topics of interest include, but are not limited to:
 + 12.25 Wrap up and summary
 
 
-## ORGANIZERS <a name="Organizers">Organizers</a>
+## ORGANIZERS <a name="Organizers"></a>
 
 
 ### Tommaso Colafiglio 

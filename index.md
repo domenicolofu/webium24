@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<div style='margin-left:250px;'>
+<div style='margin-left:300px;'>
 <a href="#OBJ" class="button">Objectives</a>
 <a href="#TOP" class="button">Topics</a>
 <a href="#PC" class="button">Program Committee</a><br></div>

@@ -1,12 +1,13 @@
 ---
 layout: default
 ---
+<div style='margin-left:250px;'>
 <a href="#DESC" class="button">Description</a>
 <a href="#OBJ" class="button">Objectives</a>
 <a href="#TOP" class="button">Topics</a>
-<a href="#PC" class="button">Program Committee</a>
-<a href="#ID" class="button">Important Dates</a><br>
-<div style='margin-top:30px; margin-left:300px;'>
+<a href="#PC" class="button">Program Committee</a><br></div>
+<div style='margin-top:30px; margin-left:250px;'>
+<a href="#ID" class="button">Important Dates</a>
 <a href="#WO" class="button">Workshop Organization</a>
 <a href="#OR" class="button">Organizers</a></div>
 

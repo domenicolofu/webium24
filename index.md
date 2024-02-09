@@ -6,8 +6,9 @@ layout: default
 <a href="https://easychair.org/" class="button">Topics</a>
 <a href="https://easychair.org/" class="button">Program Committee</a>
 <a href="https://easychair.org/" class="button">Important Dates</a><br>
+<aling="center">
 <a href="https://easychair.org/" class="button">Workshop Organization</a>
-<a href="https://easychair.org/" class="button">Organizers</a>
+<a href="https://easychair.org/" class="button">Organizers</a></aling="center">
 
 ## DESCRIPTION
 

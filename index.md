@@ -1,6 +1,11 @@
 ---
 layout: default
 ---
+<a href="https://github.com/sisinflab/LoG-2023-GNNs-RecSys" class="btn">Description</a><br>
+<a href="https://github.com/sisinflab/LoG-2023-GNNs-RecSys" class="btn">Objectives</a><br>
+<a href="https://github.com/sisinflab/LoG-2023-GNNs-RecSys" class="btn">Topics</a><br>
+<a href="https://github.com/sisinflab/LoG-2023-GNNs-RecSys" class="btn">Program Committee</a><br>
+
 
 ## DESCRIPTION
 

@@ -1,22 +1,22 @@
 ---
 layout: default
 ---
-<a href="#Organizers" class="button">Description</a>
-<a href="https://easychair.org/" class="button">Objectives</a>
-<a href="https://easychair.org/" class="button">Topics</a>
-<a href="https://easychair.org/" class="button">Program Committee</a>
-<a href="https://easychair.org/" class="button">Important Dates</a><br>
+<a href="#DESC" class="button">Description</a>
+<a href="#OBJ" class="button">Objectives</a>
+<a href="#TOP" class="button">Topics</a>
+<a href="PC" class="button">Program Committee</a>
+<a href="ID" class="button">Important Dates</a><br>
 <p aling="center">
-<a href="https://easychair.org/" class="button">Workshop Organization</a>
-<a href="#Organizers" class="button">Organizers</a></p>
+<a href="WO" class="button">Workshop Organization</a>
+<a href="#OR" class="button">Organizers</a></p>
 
-## DESCRIPTION
+## DESCRIPTION <a name="DESC"></a>
 
 <p align="justify">
 Wearable Devices (WDs), encompassing a spectrum from smartwatches to fitness trackers, continuously furnish a wealth of physiological and activity-related data. This trove of information facilitates the creation of robust user models, offering a dynamic lens into users’daily lives, health patterns, and interaction behaviours. Furthermore, the integration of Brain-Computer Interfaces (BCIs), directly interfacing with neural signals, presents a distinctive vantage point into cognitive processes and emotional states. This integration enriches user models, providing a profound understanding of mental states and engagement levels. While BCIs cannot be strictly categorized as WD s, the latest hardware developments are reaching a size comparable to earphones, anticipating their wearable integration in the near future. However, the exploitation of data from these devices for user modelling and profiling, enhancing personalized activities such as music listening and movie watching, remains an area ripe for exploration.<br>
 This workshop proposes an in-depth exploration of the transformative impact that data from WDs and BCIs can exert on user modelling. This initiative seeks to pave the way for a nuanced comprehension of individual preferences, cognitive states, and overall user experiences. The workshop invites researchers, practitioners, and enthusiasts to the convergence of wearable technology, BCIs, and user modelling. Through interactive sessions and discussions, participants will delve into the methodologies, challenges, and opportunities associated with harnessing data from these innovative sources. By fostering collaboration and facilitating knowledge exchange, the workshop aims to propel the current understanding of user modelling by exploiting WD s and BCIs. Attendees will acquire insights into cutting-edge research findings, practical applications, and potential future developments within this rapidly evolving field. Ultimately, the workshop aspires to inspire new research directions, catalyze interdisciplinary collaborations, and cultivate innovative solutions that leverage the synergy between wearable technologies and BCIs to elevate the field of user modelling to unprecedented heights.</p>
 
-## OBJECTIVES
+## OBJECTIVES <a name="OBJ"></a>
 
 <p align="justify">
 The 1st Workshop on Wearable Devices and Brain-Computer Interfaces for User Modelling (WeBIUM) is dedicated to exploring the comprehensive utilization of data derived from Wearable Devices (WDs) and Brain-Computer Interfaces (BCIs) to elevate the user experience through enhanced user profiling and modelling. The primary objective is to catalyze research endeavours that leverage WDs and BCIs to obtain real-time biological data, thereby advancing the precision of user profiling. WeBIUM is committed to fostering innovations in user modelling, with the overarching goal of improving user engagement and satisfaction through the provision of more accurate contextual and user information to personalization algorithms. This commitment aligns with the insights presented in existing literature. WeBIUM endeavours to facilitate meaningful discussions and knowledge exchange among researchers and practitioners on the implementation of solutions that harness WDs and BCIs data. The workshop specifically aims to:</p>
@@ -28,7 +28,7 @@ The 1st Workshop on Wearable Devices and Brain-Computer Interfaces for User Mode
 <p align="justify">
 By providing a place for interdisciplinary collaboration, WeBIUM aspires to forge a community dedicated to leveraging WD and BCI data for user profiling. We encourage active participation from researchers and practitioners alike, fostering an environment conducive to collaborative exploration and the exchange of innovative ideas.</p>
 
-## TOPICS
+## TOPICS <a name="TOP"></a>
 
 Topics of interest include, but are not limited to:
 
@@ -50,14 +50,14 @@ Topics of interest include, but are not limited to:
 + Innovative methodologies for user studies in wearable technologies
 + Ethical considerations in conducting user studies exploring WDs and BCIs
 
-## PROGRAM COMMITTEE
+## PROGRAM COMMITTEE <a name="PC"></a>
 
 + Carmelo Antonio Ardito - Università LUM "Giuseppe Degennaro", Italy
 + Elvira Brattico - Aarhus University, Denmark
 + Giuseppe D’Aniello - Università of Salerno, Italy
 + Pietro Pinoli - Pietro Pinoli - Politecnico di Milano, Italy
 
-## IMPORTANT DATES
+## IMPORTANT DATES <a name="ID"></a>
 
 + 1st Call for Workshop Papers: February 28, 2024
 + 2nd Call for Workshop Papers: April 13, 2024
@@ -69,7 +69,7 @@ Topics of interest include, but are not limited to:
     <a href="https://easychair.org/" class="button">Submit a Paper</a>
 </div>
 
-## WORKSHOP ORGANIZATION
+## WORKSHOP ORGANIZATION <a name="WO"></a>
 
 + 09.00 Opening and Welcome
 + 09.10 Invited Keynote
@@ -80,7 +80,7 @@ Topics of interest include, but are not limited to:
 + 12.25 Wrap up and summary
 
 
-## ORGANIZERS <a name="Organizers"></a>
+## ORGANIZERS <a name="OR"></a>
 
 
 ### Tommaso Colafiglio 

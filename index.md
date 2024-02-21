@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<div style='display:flex;flex-direction: row; width:80%;'>
+<div class="heading-button-container">
 <a href="#OBJ" class="button">Objectives</a>
 <a href="#TOP" class="button">Topics</a>
 <a href="#PC" class="button">Program Committee</a>

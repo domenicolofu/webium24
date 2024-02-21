@@ -1,14 +1,16 @@
 ---
 layout: default
 ---
-<div style='margin-left:170px;'>
+<div style='display:flex;flex-direction: row; width:80%;'>
 <a href="#OBJ" class="button">Objectives</a>
 <a href="#TOP" class="button">Topics</a>
-<a href="#PC" class="button">Program Committee</a><br></div>
-<div style='margin-top:30px; margin-left:100px;'>
+<a href="#PC" class="button">Program Committee</a>
 <a href="#ID" class="button">Important Dates</a>
 <a href="#WO" class="button">Workshop Organization</a>
-<a href="#OR" class="button">Organizers</a></div>
+<a href="#OR" class="button">Organizers</a>
+</div>
+
+
 
 ## DESCRIPTION
 
